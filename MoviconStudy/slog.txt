@@ -1,0 +1,11 @@
+[182c]      0 19-10-10 14:50:55 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+CrypKey License Server Ver 8020.0 Starting 19-10-10 14:50:55
+
+[182c]      5 19-10-10 14:50:55 Server Path:
+ [C:\PROGRA~2\Progea\MOVICO~1.5\CRP32002.NGN]
+Real License Path:
+ [C:\Program Files (x86)\Progea\Movicon11.5\movicon.exe]
+Virtual License Path:
+ [C:\ProgramData\CrypKey\Licenses\B654FEE961689C8E\movicon.exe]
