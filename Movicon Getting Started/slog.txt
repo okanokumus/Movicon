@@ -1,0 +1,154 @@
+[f68]      0 20-04-11 15:20:31 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+CrypKey License Server Ver 8020.0 Starting 20-04-11 15:20:31
+
+[f68]     23 20-04-11 15:20:31 Server Path:
+ [C:\Program Files (x86)\Progea\Movicon11.6\CRP32002.NGN]
+Real License Path:
+ [C:\Program Files (x86)\Progea\Movicon11.6\movicon.exe]
+Virtual License Path:
+ [C:\ProgramData\CrypKey\Licenses\8A76EF2ED433A274\movicon.exe]
+[33bc]      0 20-04-11 16:04:42 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+CrypKey License Server Ver 8020.0 Starting 20-04-11 16:04:42
+
+[33bc]      5 20-04-11 16:04:42 Server Path:
+ [C:\Program Files (x86)\Progea\Movicon11.6\CRP32002.NGN]
+Real License Path:
+ [C:\Program Files (x86)\Progea\Movicon11.6\movicon.exe]
+Virtual License Path:
+ [C:\ProgramData\CrypKey\Licenses\8A76EF2ED433A274\movicon.exe]
+[184c]      0 20-04-11 16:14:46 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+CrypKey License Server Ver 8020.0 Starting 20-04-11 16:14:46
+
+[184c]     16 20-04-11 16:14:46 Server Path:
+ [C:\Program Files (x86)\Progea\Movicon11.6\CRP32002.NGN]
+Real License Path:
+ [C:\Program Files (x86)\Progea\Movicon11.6\movicon.exe]
+Virtual License Path:
+ [C:\ProgramData\CrypKey\Licenses\8A76EF2ED433A274\movicon.exe]
+[2720]      0 20-04-11 16:31:27 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+CrypKey License Server Ver 8020.0 Starting 20-04-11 16:31:27
+
+[2720]      6 20-04-11 16:31:27 Server Path:
+ [C:\Program Files (x86)\Progea\Movicon11.6\CRP32002.NGN]
+Real License Path:
+ [C:\Program Files (x86)\Progea\Movicon11.6\movicon.exe]
+Virtual License Path:
+ [C:\ProgramData\CrypKey\Licenses\8A76EF2ED433A274\movicon.exe]
+[2bf0]      0 20-04-11 16:39:46 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+CrypKey License Server Ver 8020.0 Starting 20-04-11 16:39:46
+
+[2bf0]     16 20-04-11 16:39:46 Server Path:
+ [C:\Program Files (x86)\Progea\Movicon11.6\CRP32002.NGN]
+Real License Path:
+ [C:\Program Files (x86)\Progea\Movicon11.6\movicon.exe]
+Virtual License Path:
+ [C:\ProgramData\CrypKey\Licenses\8A76EF2ED433A274\movicon.exe]
+[3bc4]      0 20-04-11 17:11:20 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+CrypKey License Server Ver 8020.0 Starting 20-04-11 17:11:20
+
+[3bc4]     10 20-04-11 17:11:20 Server Path:
+ [C:\Program Files (x86)\Progea\Movicon11.6\CRP32002.NGN]
+Real License Path:
+ [C:\Program Files (x86)\Progea\Movicon11.6\movicon.exe]
+Virtual License Path:
+ [C:\ProgramData\CrypKey\Licenses\8A76EF2ED433A274\movicon.exe]
+[3060]      0 20-04-11 19:18:46 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+CrypKey License Server Ver 8020.0 Starting 20-04-11 19:18:46
+
+[3060]      0 20-04-11 19:18:46 Server Path:
+ [C:\Program Files (x86)\Progea\Movicon11.6\CRP32002.NGN]
+Real License Path:
+ [C:\Program Files (x86)\Progea\Movicon11.6\movicon.exe]
+Virtual License Path:
+ [C:\ProgramData\CrypKey\Licenses\8A76EF2ED433A274\movicon.exe]
+[1fdc]      0 20-04-11 19:20:39 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+CrypKey License Server Ver 8020.0 Starting 20-04-11 19:20:39
+
+[1fdc]      0 20-04-11 19:20:39 Server Path:
+ [C:\Program Files (x86)\Progea\Movicon11.6\CRP32002.NGN]
+Real License Path:
+ [C:\Program Files (x86)\Progea\Movicon11.6\movicon.exe]
+Virtual License Path:
+ [C:\ProgramData\CrypKey\Licenses\8A76EF2ED433A274\movicon.exe]
+[333c]      0 20-04-11 19:28:28 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+CrypKey License Server Ver 8020.0 Starting 20-04-11 19:28:28
+
+[333c]      0 20-04-11 19:28:28 Server Path:
+ [C:\Program Files (x86)\Progea\Movicon11.6\CRP32002.NGN]
+Real License Path:
+ [C:\Program Files (x86)\Progea\Movicon11.6\movicon.exe]
+Virtual License Path:
+ [C:\ProgramData\CrypKey\Licenses\8A76EF2ED433A274\movicon.exe]
+[383c]      0 20-04-11 19:35:23 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+CrypKey License Server Ver 8020.0 Starting 20-04-11 19:35:23
+
+[383c]      0 20-04-11 19:35:23 Server Path:
+ [C:\Program Files (x86)\Progea\Movicon11.6\CRP32002.NGN]
+Real License Path:
+ [C:\Program Files (x86)\Progea\Movicon11.6\movicon.exe]
+Virtual License Path:
+ [C:\ProgramData\CrypKey\Licenses\8A76EF2ED433A274\movicon.exe]
+[2a00]      0 20-04-11 19:46:23 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+CrypKey License Server Ver 8020.0 Starting 20-04-11 19:46:23
+
+[2a00]      0 20-04-11 19:46:23 Server Path:
+ [C:\Program Files (x86)\Progea\Movicon11.6\CRP32002.NGN]
+Real License Path:
+ [C:\Program Files (x86)\Progea\Movicon11.6\movicon.exe]
+Virtual License Path:
+ [C:\ProgramData\CrypKey\Licenses\8A76EF2ED433A274\movicon.exe]
+[2038]      0 20-04-11 19:50:06 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+CrypKey License Server Ver 8020.0 Starting 20-04-11 19:50:06
+
+[2038]      0 20-04-11 19:50:06 Server Path:
+ [C:\Program Files (x86)\Progea\Movicon11.6\CRP32002.NGN]
+Real License Path:
+ [C:\Program Files (x86)\Progea\Movicon11.6\movicon.exe]
+Virtual License Path:
+ [C:\ProgramData\CrypKey\Licenses\8A76EF2ED433A274\movicon.exe]
+[21d0]      0 20-04-11 19:53:40 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+CrypKey License Server Ver 8020.0 Starting 20-04-11 19:53:40
+
+[21d0]      0 20-04-11 19:53:40 Server Path:
+ [C:\Program Files (x86)\Progea\Movicon11.6\CRP32002.NGN]
+Real License Path:
+ [C:\Program Files (x86)\Progea\Movicon11.6\movicon.exe]
+Virtual License Path:
+ [C:\ProgramData\CrypKey\Licenses\8A76EF2ED433A274\movicon.exe]
+[c8]      0 20-04-11 22:18:22 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+CrypKey License Server Ver 8020.0 Starting 20-04-11 22:18:22
+
+[c8]      9 20-04-11 22:18:22 Server Path:
+ [C:\Program Files (x86)\Progea\Movicon11.6\CRP32002.NGN]
+Real License Path:
+ [C:\Program Files (x86)\Progea\Movicon11.6\movicon.exe]
+Virtual License Path:
+ [C:\ProgramData\CrypKey\Licenses\8A76EF2ED433A274\movicon.exe]

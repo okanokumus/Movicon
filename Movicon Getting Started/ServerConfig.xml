@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<OpcServerConfig>
+<UaServerConfig>
+<Trace>
+<UaStackTraceEnabled>false</UaStackTraceEnabled>
+<UaStackTraceLevel>ALL</UaStackTraceLevel>
+<UaAppTraceEnabled>false</UaAppTraceEnabled>
+<UaAppTraceLevel>Data</UaAppTraceLevel>
+<UaAppTraceMaxEntries>100000</UaAppTraceMaxEntries>
+<UaAppTraceMaxBackup>5</UaAppTraceMaxBackup>
+<UaAppTraceFile>C:\ProgramData\Progea\logs\Movicon\OPCUAServer.log</UaAppTraceFile>
+<TraceEvents>History</TraceEvents>
+</Trace>
+<RejectedCertificatesDirectory>C:\ProgramData\OPC Foundation\RejectedCertificates</RejectedCertificatesDirectory>
+<RejectedCertificatesCount>100</RejectedCertificatesCount>
+<UaEndpoint>
+<SerializerType>Binary</SerializerType>
+<Url>opc.tcp://[NodeName]:62840</Url>
+<SecuritySetting>
+<SecurityPolicy>http://opcfoundation.org/UA/SecurityPolicy#None</SecurityPolicy>
+<MessageSecurityMode>None</MessageSecurityMode>
+</SecuritySetting>
+<SecuritySetting>
+<SecurityPolicy>http://opcfoundation.org/UA/SecurityPolicy#Basic128Rsa15</SecurityPolicy>
+<MessageSecurityMode>SignAndEncrypt</MessageSecurityMode>
+</SecuritySetting>
+<SecuritySetting>
+<SecurityPolicy>http://opcfoundation.org/UA/SecurityPolicy#Basic256</SecurityPolicy>
+<MessageSecurityMode>Sign</MessageSecurityMode>
+</SecuritySetting>
+<IsVisible>true</IsVisible>
+<IsDiscoveryUrl>true</IsDiscoveryUrl>
+<AutomaticallyTrustAllClientCertificates>false</AutomaticallyTrustAllClientCertificates>
+<SecurityCheckOverwrites>
+<DisableErrorCertificateTimeInvalid>false</DisableErrorCertificateTimeInvalid>
+<DisableErrorCertificateIssuerTimeInvalid>false</DisableErrorCertificateIssuerTimeInvalid>
+<DisableErrorCertificateRevocationUnknown>false</DisableErrorCertificateRevocationUnknown>
+<DisableErrorCertificateIssuerRevocationUnknown>false</DisableErrorCertificateIssuerRevocationUnknown>
+<DisableApplicationUriCheck>false</DisableApplicationUriCheck>
+<DisableNonceLengthCheck>false</DisableNonceLengthCheck>
+<DisableUserTokenPolicyIdCheck>false</DisableUserTokenPolicyIdCheck>
+</SecurityCheckOverwrites>
+<CertificateStore>
+<OpenSSLStore>
+<CertificateTrustListLocation>C:\ProgramData\OPC Foundation\CertificateStores\UA Applications\certs\</CertificateTrustListLocation>
+<CertificateRevocationListLocation>C:\ProgramData\OPC Foundation\CertificateStores\RejectedCertificates\certs\</CertificateRevocationListLocation>
+<IssuersCertificatesLocation>C:\ProgramData\OPC Foundation\CertificateStores\UA Certificate Authorities\certs\</IssuersCertificatesLocation>
+<IssuersRevocationListLocation>C:\ProgramData\OPC Foundation\CertificateStores\RejectedCertificates\certs\</IssuersRevocationListLocation>
+<ServerCertificate>C:\ProgramData\OPC Foundation\CertificateStores\MachineDefault\certs\MoviconUaServer.der</ServerCertificate>
+<ServerPrivateKey>C:\ProgramData\OPC Foundation\CertificateStores\MachineDefault\private\MoviconUaServer.pem</ServerPrivateKey>
+</OpenSSLStore>
+<GenerateCertificate>true</GenerateCertificate>
+<CertificateSettings>
+<CommonName>Movicon OPCUAServer</CommonName>
+<Organization>Progea srl</Organization>
+<OrganizationUnit>Unit</OrganizationUnit>
+<Locality>LocationName</Locality>
+<State/>
+<Country/>
+<YearsValidFor>5</YearsValidFor>
+<KeyLength>1024</KeyLength>
+</CertificateSettings>
+</CertificateStore>
+</UaEndpoint>
+<MaxRequestAge>0</MaxRequestAge>
+<MaxSessionCount>100</MaxSessionCount>
+<MaxSessionsPerClient>0</MaxSessionsPerClient>
+<MinSessionTimeout>10000</MinSessionTimeout>
+<MaxSessionTimeout>3600000</MaxSessionTimeout>
+<MaxBrowseContinuationPoints>0</MaxBrowseContinuationPoints>
+<MaxBrowseResults>0</MaxBrowseResults>
+<MaxNodesToBrowse>0</MaxNodesToBrowse>
+<MaxNodesPerHistoryReadData>0</MaxNodesPerHistoryReadData>
+<MaxNodesPerHistoryReadEvents>0</MaxNodesPerHistoryReadEvents>
+<MaxNodesPerHistoryUpdateData>0</MaxNodesPerHistoryUpdateData>
+<MaxNodesPerHistoryUpdateEvents>0</MaxNodesPerHistoryUpdateEvents>
+<MaxHistoryContinuationPoints>0</MaxHistoryContinuationPoints>
+<MinPublishingInterval>50</MinPublishingInterval>
+<MaxPublishingInterval>0</MaxPublishingInterval>
+<MinKeepAliveInterval>5000</MinKeepAliveInterval>
+<MinSubscriptionLifetime>10000</MinSubscriptionLifetime>
+<MaxSubscriptionLifetime>0</MaxSubscriptionLifetime>
+<MaxRetransmissionQueueSize>20</MaxRetransmissionQueueSize>
+<MaxNotificationsPerPublish>0</MaxNotificationsPerPublish>
+<MaxDataQueueSize>100</MaxDataQueueSize>
+<MaxEventQueueSize>10000</MaxEventQueueSize>
+<MaxSubscriptionCount>0</MaxSubscriptionCount>
+<MaxSubscriptionsPerSession>10</MaxSubscriptionsPerSession>
+<MaxMonitoredItemCount>0</MaxMonitoredItemCount>
+<MaxMonitoredItemPerSubscriptionCount>0</MaxMonitoredItemPerSubscriptionCount>
+<MaxMonitoredItemPerSessionCount>0</MaxMonitoredItemPerSessionCount>
+<MinSupportedSampleRate>0</MinSupportedSampleRate>
+<AvailableSamplingRates>
+<SamplingRate>0</SamplingRate>
+<SamplingRate>50</SamplingRate>
+<SamplingRate>100</SamplingRate>
+<SamplingRate>250</SamplingRate>
+<SamplingRate>500</SamplingRate>
+<SamplingRate>1000</SamplingRate>
+<SamplingRate>2000</SamplingRate>
+<SamplingRate>5000</SamplingRate>
+<SamplingRate>10000</SamplingRate>
+</AvailableSamplingRates>
+<AvailableLocaleIds>
+<LocaleId>en</LocaleId>
+</AvailableLocaleIds>
+<AvailableServerProfiles>
+<ServerProfileUri>http://opcfoundation.org/UAProfile/Server/StandardUA</ServerProfileUri>
+<ServerProfileUri>http://opcfoundation.org/UAProfile/Server/DataAccess</ServerProfileUri>
+<ServerProfileUri>http://opcfoundation.org/UAProfile/Server/Methods</ServerProfileUri>
+<ServerProfileUri>http://opcfoundation.org/UAProfile/Server/NodeManagement</ServerProfileUri>
+<ServerProfileUri>http://opcfoundation.org/UAProfile/Server/EventSubscription</ServerProfileUri>
+</AvailableServerProfiles>
+<IsAuditActivated>false</IsAuditActivated>
+<ThreadPoolSettings>
+<MinSizeTransactionManager>1</MinSizeTransactionManager>
+<MaxSizeTransactionManager>10</MaxSizeTransactionManager>
+<MinSizeSubscriptionManager>1</MinSizeSubscriptionManager>
+<MaxSizeSubscriptionManager>10</MaxSizeSubscriptionManager>
+</ThreadPoolSettings>
+<ProductUri>urn:ProgeaAutomation:Movicon</ProductUri>
+<ManufacturerName>Progea srl</ManufacturerName>
+<ProductName>Movicon OPCUAServer</ProductName>
+<SoftwareVersion>11</SoftwareVersion>
+<BuildNumber>0</BuildNumber>
+<ServerUri>urn:[NodeName]:Movicon OPCUAServer</ServerUri>
+<ServerName>Movicon@[NodeName]</ServerName>
+<UserIdentityTokens>
+<EnableAnonymous>true</EnableAnonymous>
+<EnableUserPw>true</EnableUserPw>
+<EnableCertificate>false</EnableCertificate>
+</UserIdentityTokens>
+<DiscoveryRegistration>
+<AutomaticCertificateExchange>false</AutomaticCertificateExchange>
+<DiscoveryServerTrustListLocation>C:\ProgramData\OPC Foundation\UA\Discovery\pki\trusted\certs</DiscoveryServerTrustListLocation>
+<DiscoveryServerStoreName>UA Applications</DiscoveryServerStoreName>
+<DiscoveryServerCertificateName>UA Local Discovery Server</DiscoveryServerCertificateName>
+<RegistrationInterval>30000</RegistrationInterval>
+<Url>opc.tcp://localhost:4840</Url>
+</DiscoveryRegistration>
+<Serializer>
+<MaxAlloc>16777216</MaxAlloc>
+<MaxStringLength>16777216</MaxStringLength>
+<MaxByteStringLength>16777216</MaxByteStringLength>
+<MaxArrayLength>65536</MaxArrayLength>
+<MaxMessageSize>16777216</MaxMessageSize>
+</Serializer>
+<StackThreadPoolSettings>
+<Enabled>false</Enabled>
+<MinThreads>5</MinThreads>
+<MaxThreads>5</MaxThreads>
+<MaxJobs>20</MaxJobs>
+<BlockOnAdd>true</BlockOnAdd>
+<Timeout>0</Timeout>
+</StackThreadPoolSettings>
+<RedundancySettings>
+<RedundancySupport>None</RedundancySupport>
+</RedundancySettings>
+</UaServerConfig>
+</OpcServerConfig>
