@@ -8,3 +8,6 @@ Progea - SCADA
 
 # Movicon Getting Started
 - [Movicon SCADA Başlangıç Seviye Video'lu Anlatım](https://www.youtube.com/watch?v=wYo5rXJCZL4)
+
+# Movicon DataLogger Project
+- [Movicon SCADA DataLogger Video'lu Anlatım]()
