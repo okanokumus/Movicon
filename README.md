@@ -1,7 +1,11 @@
 # Movicon
 Progea - SCADA
 
-[case history for the project with movicon scada](https://www.progea.com/en/movicon-aiuta-a-rilassarti/)
+[I have been writting some of SCADA topics on my blog](https://okanistalking.blogspot.com/search/label/scada)
+
+
+[My old project that published on a magazine](https://www.progea.com/en/movicon-aiuta-a-rilassarti/)
+
 
 # Movicon Study - KONU BAŞLIKLARI
 - [Variable Çalışması (Bit, Word, Float)](https://github.com/okanokumus/Movicon/blob/master/Images/var%20%C3%A7al%C4%B1%C5%9Fma.PNG)
